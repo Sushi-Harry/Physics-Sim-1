@@ -1,3 +1,3 @@
-#PHYSICS-SIM-1
+# Physics-Sim-1
 
-This is a WIP sand simulation that is written with Raylib in C++
+This is a WIP Sand Simulation written with Raylib in C++
